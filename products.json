@@ -1,0 +1,74 @@
+[
+  {
+    "id": "p1",
+    "title": "DSA Textbook (2nd ed.)",
+    "category": "books",
+    "price": 399,
+    "quantity": 1,
+    "media": "imgs/bean-bag.jpg",
+    "description": "Highlights on key chapters. No torn pages."
+  },
+  {
+    "id": "p2",
+    "title": "Hostel Study Table",
+    "category": "furniture",
+    "price": 1200,
+    "quantity": 1,
+    "media": "imgs/hostel-study-table.jpg",
+    "description": "Compact, sturdy. Minor scuffs at edges."
+  },
+  {
+    "id": "p3",
+    "title": "Scientific Calculator FX-991ES",
+    "category": "electronics",
+    "price": 750,
+    "quantity": 1,
+    "media": "imgs/scientific-calc.jpg",
+    "description": "Barely used. Includes cover."
+  },
+  {
+    "id": "p4",
+    "title": "Ballpoint Pens (Pack of 10)",
+    "category": "stationary",
+    "price": 60,
+    "quantity": 10,
+    "media": "imgs/pen.jpg",
+    "description": "Smooth writing pens."
+  },
+  {
+    "id": "p5",
+    "title": "Non-stick Frying Pan",
+    "category": "utensils",
+    "price": 300,
+    "quantity": 1,
+    "media": "imgs/non-stick-frying-pan.jpeg",
+    "description": "Great for hostel cooking."
+  },
+  {
+    "id": "p6",
+    "title": "LED Desk Lamp",
+    "category": "electronics",
+    "price": 499,
+    "quantity": 1,
+    "media": "imgs/table-lamp.jpg",
+    "description": "Three brightness modes."
+  },
+  {
+    "id": "p7",
+    "title": "Bean Bag Chair",
+    "category": "furniture",
+    "price": 900,
+    "quantity": 1,
+    "media": "imgs/bean-bag.jpg",
+    "description": "Comfy reading chair."
+  },
+  {
+    "id": "p8",
+    "title": "Lab Coat",
+    "category": "others",
+    "price": 250,
+    "quantity": 1,
+    "media": "imgs/lab-coat.jpeg",
+    "description": "Size M. Clean."
+  }
+]
